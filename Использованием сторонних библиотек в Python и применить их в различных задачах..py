@@ -1,7 +1,7 @@
 """
 pip install requests — для отправки HTTP-запросов.
-pip install beautifulsoup (из пакета beautifulsoup4) — для парсинга HTML-контента
-pip install lxml  Опционально
+pip install beautifulsoup4 — для парсинга HTML-контента
+pip install lxml - Опционально
 
 Как работает этот код:
 1. Получает главную страницу: Код отправляет GET-запрос к главной странице сайта.
